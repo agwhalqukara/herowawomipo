@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://herowawomipo.pages.dev/sitemap.xml
